@@ -1,0 +1,8 @@
+---
+title: 'Inaugural #HackyHour'
+text: Our first get-together as a study group! Come tell us what you'd like to see this semester.
+location: Big Red Barn
+date: 2017-02-16
+startTime: '17:00'
+endTime: '18:00'
+---

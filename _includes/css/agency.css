@@ -192,7 +192,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary }};
+    color: #FFFFFF;
+    /*color: #{{ site.color.primary }};*/
 }
 
 .navbar-default .navbar-brand:hover,
@@ -269,7 +270,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #00060f;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -670,7 +671,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(img/map-image.png);
+    background-image: url(assets/volkan-olmez-73767-crop.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }

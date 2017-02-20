@@ -18,7 +18,7 @@ language: en
 # Optional Configuration
 # None of these things need to be changed - but feel free!
 
-titleBackground: images/ww8jbak7bo-andrew-illarionov.jpg
+titleBackground: assets/lee-campbell-86958.jpg
 headlineSmall: "Cornell Open Science Study Group"
 headlineMain: "Let's Work Together"
 
@@ -38,9 +38,12 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 #========================================
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: c91e1e
-  secondary: b31b1b
-  secondary-dark: 9d1717
+  primary: 004dd4
+  secondary: 18489c
+  secondary-dark: 38568ch
+  # primary: c91e1e
+  # secondary: b31b1b
+  # secondary-dark: 9d1717
 
 # Build settings
 markdown: kramdown
