@@ -1,0 +1,8 @@
+---
+title: 'What is Open Science? Discussion'
+text: A meeting to discuss what open science is and why we should (want to) practice it.
+location: 
+date: 2017-03-08
+startTime: '17:00'
+endTime: '18:00'
+---

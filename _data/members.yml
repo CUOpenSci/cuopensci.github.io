@@ -1,19 +1,25 @@
 - name: Elizabeth DuPre
-  affiliation: Human Development
+  affiliation: Human Neuroscience Institute
   github: emdupre
   interests:
+    - Compulsively checking twitter
     - Neuroscience
-    - Open Science
-    - Data Visualization
+    - Reproducible research
+    - Data visualization
 
 - name: Celine Cammarata
-  affiliation: Human Development
+  affiliation: Human Neuroscience Institute
   github: 
   interests:
-    - Neuroscience
+    - Her dogs
+    - Pusheen
+    - Cognitive neuroscience
+    - Translational research
+    - Science policy
 
 - name: Ross Markello
-  affiliation: Human Development
+  affiliation: Human Neuroscience Institute
   github: rmarkello
   interests:
-    - Neuroscience
+    - Dogs (especially his yellow lab)
+    - Python ecosystem(s)
