@@ -20,7 +20,7 @@ language: en
 
 titleBackground: assets/lee-campbell-86958.jpg
 headlineSmall: ""
-headlineMain: "Let's work together"
+headlineMain: "Let's work <br> together"
 
 # Setup Google Calendar
 # Usage:
