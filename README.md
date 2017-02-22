@@ -10,10 +10,6 @@ Our study group is an informal meetup for anyone in the Cornell University commu
 * **Watch this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
 * **Read the code of conduct:** this Study Group Program is for everyone - we abide by a [set of rules](https://www.mozillascience.org/code-of-conduct/) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time!
 
-## For Elizabeth: How to Set Up Your Own Mozilla Study Group Website
-
-Everything you need to set up your own beautiful Mozilla Study Group website (it looks like this!) for organizing events is [right here in the Orientation Guide.](https://mozillascience.github.io/study-group-orientation/3.3-get-online.html) 
-
 
 
 
