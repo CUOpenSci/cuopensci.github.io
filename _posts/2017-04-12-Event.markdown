@@ -1,0 +1,8 @@
+---
+title: 'Open Science as a Political Movement'
+text: A dicussion of open science as a political movement and why we should support it. 
+location:
+date: 2017-04-12
+startTime: '17:00'
+endTime: '18:00'
+---
