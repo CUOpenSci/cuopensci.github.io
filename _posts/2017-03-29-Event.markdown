@@ -1,7 +1,7 @@
 ---
 title: 'Introduction to Git(Hub)'
-text: An introduction to the version control software Git(Hub). 
-location: MVR G422
+text: Ross Markello will provide an introduction to the version control software Git(Hub). 
+location: Martha Van Rensselaer Hall G422
 date: 2017-03-29
 startTime: '17:00'
 endTime: '18:00'
