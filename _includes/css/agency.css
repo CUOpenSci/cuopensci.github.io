@@ -247,11 +247,12 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.color.secondary }};
 }
 
+/*CHANGE NAVBAR COLOR HERE*/
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: #00060f;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -279,6 +280,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+    margin-top: 2.25cm;
     text-align: center;
     background-attachment: scroll;
     background-image: url({{ site.titleBackground }});
