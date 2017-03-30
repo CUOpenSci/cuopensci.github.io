@@ -1,6 +1,6 @@
 ---
-title: 'Open Science as a Political Movement'
-text: Celine Cammarata will lead a discussion of how to support open science as a political movement. 
+title: 'Introduction to Inkscape'
+text: Joe Cammarata will lead an introduction to the image creation software Inkscape. 
 location:
 date: 2017-04-12
 startTime: '17:00'
