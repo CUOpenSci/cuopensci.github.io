@@ -11,7 +11,7 @@ tags:
 **Author:** Ross Markello  
 **Materials needed:** Access to a computer  
 **Time to Complete:** One Hour  
-[**Workshop Slides**](https://github.com/emdupre/studyGroup/blob/gh-pages/lessons/git/intro_to_git_markello.pdf)  
+[**Workshop Slides**](https://github.com/emdupre/studyGroup/blob/gh-pages/lessons/git/intro/intro_to_git_markello.pdf)  
 
 ---
 
