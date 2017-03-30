@@ -17,6 +17,19 @@ calendar_on: False
 calendar_embed_url: "https://www.google.com/calendar/embed?src=USER@gmail.com"
 calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/basic.ics"
 
+# ===============================
+# Categories for sorting lessons.
+# ===============================
+
+languages:
+  - git
+
+levels:
+  - intro
+  - intermediate
+  - advanced
+
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 2f85d0
