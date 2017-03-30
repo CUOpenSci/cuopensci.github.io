@@ -3,19 +3,7 @@
   github: emdupre
   interests:
     - Compulsively checking twitter
-    - Neuroscience
-    - Reproducible research
     - Data visualization
-
-- name: Celine Cammarata
-  affiliation: Human Neuroscience Institute
-  github: 
-  interests:
-    - Her dogs
-    - Pusheen
-    - Cognitive neuroscience
-    - Translational research
-    - Science policy
 
 - name: Ross Markello
   affiliation: Human Neuroscience Institute
@@ -23,3 +11,29 @@
   interests:
     - Dogs (especially his yellow lab)
     - Python ecosystem(s)
+
+- name: Celine Cammarata
+  affiliation: Human Neuroscience Institute
+  github: ccammarata
+  interests:
+    - Pusheen
+    - Science policy
+
+- name: Joe Cammarata
+  affiliation: Weill Institute for Cell and Molecular Biology
+  github: josophila
+  interests:
+    - Explorational cooking
+    - Synthetic Biology
+
+- name: Irena Papst
+  affiliation: Center for Applied Mathematics
+  github: papsti
+
+- name: Roni Setton
+  affiliation: Human Neuroscience Institute
+  github: rsetton
+
+- name: Vaida Rimeikytė
+  affiliation: Human Neuroscience Institute
+  github: vaidarim
