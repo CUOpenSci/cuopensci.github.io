@@ -7,38 +7,45 @@ tags:
   - intro
 ---
 
-**Title:** Introduction to Git(Hub)  
-**Author:** Ross Markello  
-**Materials needed:** Access to a computer  
-**Time to Complete:** One Hour  
-[**Workshop Slides**](https://github.com/emdupre/studyGroup/blob/gh-pages/lessons/git/intro/intro_to_git_markello.pdf)  
+**Title:** Introduction to Git(Hub)
+**Author:** Ross Markello
+**Materials needed:** Access to a computer
+**Time to Complete:** One Hour
+[**Workshop Slides**](https://github.com/emdupre/studyGroup/blob/gh-pages/lessons/git/intro/intro_to_git_markello.pdf)
 
 ---
 
+**Summary/Context/Objectives:**
 
+1. Learn what version control is and how it can help you organize your life/research. 
+2. Learn how git works as a version control system, and get started using it in the context of GitHub and GitHub Desktop.
+3. Install git, Github Desktop, and create a GitHub account.
 
-**Summary/Context/Objectives:** *In this section, include WHAT this lesson will enable you to do, and WHY you might want to do that, what are some applications for this tool or skill.* 
+**Steps to Complete:** 
 
-**Tips:**
-*This section should be written so that someone unfamiliar with the content can understand what the lesson is about, and if it will be useful to them. 
-Include definitions of any really important, key words here in the summary. For example, don’t just say “this lesson will teach you to use pandas,” say “this lesson will teach you to use pandas, an open source library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language”* 
-
-**Steps to Complete:** *Break down and organize the lesson in numbered steps.*   
-
-**Tips:** 
-* Show expected output or results, whenever possible. 
-* Include code samples
-* Don’t just list a set of instructions, add a few words about what each step does and why.
-* If you come to a point where things might get confusing, add a sentence or two to clarify.
+1. Understand what version control is and how it can help you
+2. Install git on your computer and ensure it is working properly
+3. Set up some defaults for git
+4. Create a GitHub account and make a new repository
+5. Download GitHub Desktop
+6. Clone the repository created in step 4
+7. Create a new file and add it to your repository
+8. Commit your file and push it to your GitHub
 
 ---
 
-**Glossary:** *list any new, potentially unfamiliar or confusing terms or jargon and define them here.*
+**Glossary:**
+
+__version control system__: a system that records changes to a file or set of files over time so that you can recall specific versions later
+__git__: a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people
+__repository__: where git stores the recorded changes for your file or set of files
+__commit__: a snapshot of your files at a certain point in history; used to maintain a chronological log of changes in your repository
+__GitHub__: a web-based git or version control repository and Internet hosting service
 
 ---
 
 Additional Resources: 
 * The [git manual](https://git-scm.com/book/en/v2)
-* A command-line [git workalong](https://try.github.io/)
+* A command-line [git work-along](https://try.github.io/)
 * The official [GitHub guides](https://guides.github.com/)
 * Information on educational discounts for [GitHub](https://education.github.com) 
