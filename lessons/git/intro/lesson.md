@@ -48,4 +48,4 @@ Additional Resources:
 * The [git manual](https://git-scm.com/book/en/v2)
 * A command-line [git work-along](https://try.github.io/)
 * The official [GitHub guides](https://guides.github.com/)
-* Information on educational discounts for [GitHub](https://education.github.com) 
+* Information on [educational discounts](https://education.github.com) 
