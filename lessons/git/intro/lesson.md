@@ -7,11 +7,11 @@ tags:
   - intro
 ---
 
-**Title:** Introduction to Git(Hub)
-**Author:** Ross Markello
-**Materials needed:** Access to a computer
-**Time to Complete:** One Hour
-[**Workshop Slides**](https://github.com/emdupre/studyGroup/blob/gh-pages/lessons/git/intro/intro_to_git_markello.pdf)
+**Title:** Introduction to Git(Hub)  
+**Author:** Ross Markello  
+**Materials needed:** Access to a computer  
+**Time to Complete:** One Hour  
+[**Workshop Slides**](https://github.com/emdupre/studyGroup/blob/gh-pages/lessons/git/intro/intro_to_git_markello.pdf)  
 
 ---
 
@@ -36,11 +36,11 @@ tags:
 
 **Glossary:**
 
-__version control system__: a system that records changes to a file or set of files over time so that you can recall specific versions later
-__git__: a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people
-__repository__: where git stores the recorded changes for your file or set of files
-__commit__: a snapshot of your files at a certain point in history; used to maintain a chronological log of changes in your repository
-__GitHub__: a web-based git or version control repository and Internet hosting service
+__version control system__: a system that records changes to a file or set of files over time so that you can recall specific versions later  
+__git__: a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people  
+__repository__: where git stores the recorded changes for your file or set of files  
+__commit__: a snapshot of your files at a certain point in history; used to maintain a chronological log of changes in your repository  
+__GitHub__: a web-based git or version control repository and Internet hosting service  
 
 ---
 
