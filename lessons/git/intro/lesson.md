@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lesson
 title: 'Introduction to Git(Hub)'
 visible: true
 tags:
