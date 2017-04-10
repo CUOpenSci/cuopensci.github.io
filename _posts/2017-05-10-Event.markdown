@@ -1,0 +1,8 @@
+---
+title: 'Open Science Framework (OSF)'
+text: Wendy Kozlowski and Erica Johns will lead a hands-on sessions for OSF. 
+location: Martha Van Rensselaer Hall G422
+date: 2017-05-10
+startTime: '17:00'
+endTime: '18:00'
+---
