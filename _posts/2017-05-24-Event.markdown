@@ -1,6 +1,6 @@
 ---
-title: 'Open Science as a Social Movement'
-text: Celine Cammarata will lead a discussion of open science as a social movement. 
+title: 'Social and Political Implications of Open Science'
+text: A discussion of open science as a social movement led by Celine Cammarata. 
 location: Martha Van Rensselaer Hall G422
 date: 2017-05-24
 startTime: '17:00'
