@@ -4,7 +4,7 @@ events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: "We're the Cornell Open Science Study Group, and we believe open science is for everyone!
+activitiesSubheading: "We're the Cornell University open science study group, and we believe open science is for everyone!
 <br>
 <br>
 Join us for:"
@@ -21,7 +21,7 @@ activities:
 
 events: Events
 eventsSubheading: Our upcoming and recent events
-eventPlaceholder: Nothing yet! Propose an event here.
+eventPlaceholder: Check back soon!
 suggestEvent: Suggest an Event
 leadership: How to lead a Study Group session
 pastEvents: See Our Past Events
