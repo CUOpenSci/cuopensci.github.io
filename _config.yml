@@ -24,6 +24,7 @@ calendar_ical_url: "https://www.google.com/calendar/ical/USER@gmail.com/public/b
 languages:
   - git
   - python
+  - spanish
 
 levels:
   - intro
