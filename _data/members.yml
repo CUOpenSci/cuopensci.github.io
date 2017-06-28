@@ -1,17 +1,3 @@
-- name: Elizabeth DuPre
-  affiliation: Human Neuroscience Institute
-  github: emdupre
-  interests:
-    - Compulsively checking twitter
-    - Data visualization
-
-- name: Ross Markello
-  affiliation: Human Neuroscience Institute
-  github: rmarkello
-  interests:
-    - Dogs (especially his yellow lab)
-    - Python ecosystem(s)
-
 - name: Celine Cammarata
   affiliation: Human Neuroscience Institute
   github: ccammarata
@@ -26,16 +12,19 @@
     - Explorational cooking
     - Synthetic Biology
 
+- name: Sarah Merrill
+  affiliation: Human Development
+  github: smmerrill
+  interests:
+    - Neuroscience of sex & attachment 
+    - Video games, cats, and whiskey
+
 - name: Irena Papst
   affiliation: Center for Applied Mathematics
   github: papsti
   interests:
     - Mathematical modelling
     - Equal parts podcasts and pizza
-
-- name: Roni Setton
-  affiliation: Human Neuroscience Institute
-  github: rsetton
 
 - name: Vaida Rimeikytė
   affiliation: Human Neuroscience Institute
@@ -50,10 +39,3 @@
   interests:
     - Probability, functional analysis and everything in between
     - Rock climbing and Roger Federer
-
-- name: Sarah Merrill
-  affiliation: Human Development
-  github: smmerrill
-  interests:
-    - Neuroscience of sex & attachment 
-    - Video games, cats, and whiskey
