@@ -1,0 +1,19 @@
+### Starting a list of workshop ideas that we can flesh out throughout the semester. Current plan is to alternate workshops/discussions with less formal hacky hours. This will keep up participation and allow for people to practice skills from workshops, but reduces burden of always planning a more formal event too!
+
+Lesson ideas and rough content outlines. Please update outlines, suggest, edit, improve, etc!
+
+Bash 1 - stuff that Joe knows how to do well enough to teach.
+  filesystem structure
+  navigating the bash shell
+  commands, options, getting help
+  stringing basic commands together, input/output
+  controlling the $PATH 
+  optional: more flavor-oriented modifications to .bash_profile
+    aliasing, customizing your prompt, 
+
+Bash 2 (Joe does not know this at this moment)
+  Looping
+  Using bash to run a script over multiple files
+  
+Regular Expressions (make those punctuation marks work for you like it's creative writing class and you're Louis Armstrong!)
+
